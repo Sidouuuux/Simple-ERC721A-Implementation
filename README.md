@@ -1,8 +1,7 @@
 
-# ✨ Hardhat starter kit ✨
-This repository serves as a starting point to quickly spin up a new Hardhat project with a range of powerful tools and features already available.
-
-With this starter kit, you can begin working on your project immediately, without having to spend time setting up your environment or configuring your tools. The project comes pre-configured with Hardhat, a popular development environment for building Ethereum smart contracts, as well as a range of plugins and packages that will help streamline your development process.
+# ✨ Simple ERC721A Implementation ✨
+This repository is a simple ERC721A implementation.
+ERC721A is an improved implementation of the IERC721 standard that supports minting multiple tokens for close to the cost of one.
 
 # Requirements 🔧
 
